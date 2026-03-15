@@ -1,5 +1,7 @@
 # Base64URL
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A simple implementation of Base64URL encoding and decoding.
 
 ## Features
