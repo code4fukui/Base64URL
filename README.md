@@ -1,5 +1,14 @@
 # Base64URL
- 
+
+A simple implementation of Base64URL encoding and decoding.
+
+## Features
+- Encodes and decodes binary data using Base64URL format
+- Efficient and lightweight
+- Tested for performance
+
+## Usage
+
 ```js
 import { Base64URL } from "https://code4fukui.github.io/Base64URL/Base64URL.js";
 
@@ -9,3 +18,6 @@ console.log(s);
 const bin2 = Base64URL.decode(s);
 console.log(bin2);
 ```
+
+## License
+MIT License
