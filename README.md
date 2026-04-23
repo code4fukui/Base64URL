@@ -9,6 +9,9 @@ A simple implementation of Base64URL encoding and decoding.
 - Efficient and lightweight
 - Tested for performance
 
+## Requirements
+No external dependencies are required beyond the provided script.
+
 ## Usage
 
 ```js
@@ -20,6 +23,9 @@ console.log(s);
 const bin2 = Base64URL.decode(s);
 console.log(bin2);
 ```
+
+## Data / API
+The project uses a custom script for encoding and decoding binary data in Base64URL format.
 
 ## License
 MIT License — see [LICENSE](LICENSE).
